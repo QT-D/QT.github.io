@@ -1,0 +1,38 @@
+[
+  
+  {
+    "title": "Will it work",
+    "url": "/posts/firstpost/",
+    "categories": "TOP_CATEGORIE, SUB_CATEGORIE",
+    "tags": "tag1, tag2, tag3",
+    "date": "2023-09-09 22:52:00 +0300",
+    
+
+
+
+
+
+    
+    "snippet": "HelloWhat does it take to run a blog on github pages?It is a very simple exercise. You just have to follow alongsudo apt update $ sudo apt upgrade",
+    "content": "HelloWhat does it take to run a blog on github pages?It is a very simple exercise. You just have to follow alongsudo apt update $ sudo apt upgrade"
+  },
+  
+  {
+    "title": "Welcome",
+    "url": "/posts/welcome/",
+    "categories": "BTLO, Deep_Blue",
+    "tags": "log_analysis",
+    "date": "2023-09-09 22:47:30 +0300",
+    
+
+
+
+
+
+    
+    "snippet": "Welcome to my blogI will take you through DeepBlue challenge from https://btlo.com",
+    "content": "Welcome to my blogI will take you through DeepBlue challenge from https://btlo.com"
+  }
+  
+]
+
